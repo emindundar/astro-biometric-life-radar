@@ -1,4 +1,4 @@
-import 'models/biometric_data.dart';
+import '../../../../core/models/biometric_data.dart';
 
 /// Biyometrik veri sağlayıcıları için soyut arayüz (interface).
 ///

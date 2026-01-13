@@ -1,5 +1,5 @@
-import '../../../core/biometric_repository.dart';
-import '../../../core/models/biometric_data.dart';
+import '../../domain/repositories/biometric_repository.dart';
+import '../../../../core/models/biometric_data.dart';
 
 /// Akıllı saati olmayan kullanıcılar için "Gamified Input" stratejisini
 /// uygulayan repository implementasyonu.

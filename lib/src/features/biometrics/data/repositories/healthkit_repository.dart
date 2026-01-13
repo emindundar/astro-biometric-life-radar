@@ -1,5 +1,5 @@
-import '../../../core/biometric_repository.dart';
-import '../../../core/models/biometric_data.dart';
+import '../../domain/repositories/biometric_repository.dart';
+import '../../../../core/models/biometric_data.dart';
 
 /// HealthKit (iOS) ve Google Fit (Android) üzerinden gerçek biyometrik
 /// verileri alan repository implementasyonu.
